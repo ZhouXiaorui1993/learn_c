@@ -1,0 +1,6 @@
+# dev_c++ out
+*.o
+*.win
+*.exe
+*.dev
+*.layout
