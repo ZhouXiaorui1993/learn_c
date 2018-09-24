@@ -33,3 +33,4 @@
 
 # don't konw how to gennerate
 *.cpp~
+.DS_Store
